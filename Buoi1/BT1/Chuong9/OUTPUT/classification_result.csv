@@ -1,0 +1,2 @@
+Row,Kfold,Norm,HT,Acc,Sen,Spe,Pre,Recall,F1
+KNN,10,50,50,0.68,0.68,0.68,0.68,0.68,0.68
