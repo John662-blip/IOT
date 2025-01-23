@@ -10,5 +10,5 @@ figure; plot(x,y,'b')
 hold on; plot(x,y1,'k--');plot(x,y2,'r--')
 xlabel("Sampling points")
 ylabel("Amplitude")
-legend("Synthetic PPG","1^{st} Gaussian","2^{nd} Gaussian")
+legend("Synthetic PPG","1^{st} Gaussian","2^{nd} Gaussian ")
 title("An example of generating a waveform using two Gaussian functions");

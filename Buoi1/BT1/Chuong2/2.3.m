@@ -7,5 +7,5 @@ y = a * exp(-(((x-mu)/sigma).^2)/2) ; %Hàm gau
 figure; plot(x ,y);
 xlabel("Sampling points");
 ylabel("Amplitude");
-title("An example of generating a waveform using one Gaussian function");
+title("An example of generating a waveform using one Gaussian function ");
 
